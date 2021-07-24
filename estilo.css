@@ -7,7 +7,42 @@ body{
 }
 
 .container{
-    
+    display: inline-block;
+}
+
+p{
+    color: hsl(0, 0%, 81%);
+}
+
+p span{
+    color: hsl(0, 0%, 100%);
+    font-weight: bold;
+}
+
+.daniel{
+    background-color: hsl(263, 55%, 52%);
+    padding: 20px;
+    width: 490px;
+}
+
+.jonathan{
+    background-color: hsl(217, 19%, 35%);
+    padding: 20px;
+}
+
+.jeanette{
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+}
+
+.patrick{
+    background-color: hsl(219, 29%, 14%);
+    padding: 20px;
+}
+
+.kira{
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
 }
 
 /*--------------------------------------------------*/
