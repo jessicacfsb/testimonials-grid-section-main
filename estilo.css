@@ -97,7 +97,19 @@ body{
 
 }
 
+.jeanette span{
+    color: hsla(210, 46%, 95%, 50%);
+}
 
+.jeanette h2{
+    letter-spacing: 0.3px;
+}
+
+.jeanette p{
+    font-weight: 500;
+    color: hsla(210, 46%, 95%, 70%);
+    line-height: 1.4;
+}
 
 .kira{
     background-color: hsl(0, 0%, 100%);
