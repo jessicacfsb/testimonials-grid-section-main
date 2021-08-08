@@ -154,7 +154,7 @@ body{
     height: 255px;
     border-radius: 10px;
     position: absolute;
-        transform: translate(260px, 320px);
+        transform: translate(280px, 320px);
 }
 
 #img-patrick{
@@ -195,7 +195,7 @@ body{
     background-color: hsl(0, 0%, 100%);
     padding: 30px;
     padding-bottom: 10px;
-    max-width: 190px;
+    max-width: 195px;
     margin-right: 30px;
     border-radius: 10px;
 }
@@ -208,8 +208,8 @@ body{
 .box-kira{
     width: 100px;
     position: absolute;
-    top: 50px;
-    left:750px;
+    top: 60px;
+    left:1070px;
 }
 
 
@@ -231,7 +231,7 @@ body{
 .kira p{
     font-weight: 500;
     color: hsla(210, 46%, 95%, 70%);
-    line-height: 1.4; 
+    line-height: 1.55; 
 }
 
 /*--------------------------------------------------*/
