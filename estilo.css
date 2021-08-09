@@ -22,6 +22,8 @@ body{
     height: 255px;
     border-radius: 10px;
     margin-right: 30px;
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
 }
 
 #img-daniel{
@@ -127,22 +129,22 @@ body{
 
 .jeanette strong{
    letter-spacing: 0.5px;
-   color: hsla(210, 46%, 95%);
+   color: hsl(217, 19%, 35%);
 }
 
 
 .jeanette span{
-    color: hsla(210, 46%, 95%, 50%);
+    color: hsla(217, 19%, 35%, 50%);
 }
 
 .jeanette h2{
     letter-spacing: 0.3px;
-    color: hsla(210, 46%, 95%);
+    color: hsl(217, 19%, 35%);
 }
 
 .jeanette p{
     font-weight: 500;
-    color: hsla(210, 46%, 95%, 70%);
+    color: hsla(217, 19%, 35%, 70%);
     line-height: 1.4; 
 }
 
@@ -215,22 +217,22 @@ body{
 
 .kira strong{
    letter-spacing: 0.5px;
-   color: hsla(210, 46%, 95%);
+   color: hsl(217, 19%, 35%);
 }
 
 
 .kira span{
-    color: hsla(210, 46%, 95%, 50%);
+    color: hsla(217, 19%, 35%, 50%);
 }
 
 .kira h2{
     letter-spacing: 0.3px;
-    color: hsla(210, 46%, 95%);
+    color: hsl(217, 19%, 35%);
 }
 
 .kira p{
     font-weight: 500;
-    color: hsla(210, 46%, 95%, 70%);
+    color: hsla(217, 19%, 35%, 70%);
     line-height: 1.55; 
 }
 
