@@ -10,31 +10,34 @@ body{
 .container{
     display: inline-flex;
     margin-left: 10%;
-    margin-top: 40px;
+    margin-top: 80px;
     width: 9300px;   
 }
 
 .daniel{
     background-color: hsl(263, 55%, 52%);
     padding: 30px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     max-width: 480px;
-    height: 255px;
+    height: 240px;
     border-radius: 10px;
     margin-right: 30px;
     background-image: url(images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
-    /*ALTERAR POSIÇÃO DO QUOTATION*/
+    background-size: 105px 111px;
+    background-position: 350px 0px;
 }
 
 #img-daniel{
     border-radius: 100%;
+    margin-top: -10px;
+     border: 2px solid hsl(264, 82%, 70%);
 }
 
 
 .box-daniel{
     position: absolute;
-    top: 60px;
+    top: 90px;
     left: 220px;
 }
 
@@ -63,22 +66,23 @@ body{
 .jonathan{
     background-color: hsl(217, 19%, 35%);
     padding: 30px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     max-width: 190px;
     margin-right: 30px;
-    height: 255px;
+    height: 240px;
     border-radius: 10px;
 }
 
 #img-jonathan{
     border-radius: 100%;
+    margin-top: -10px;
 }
 
 
 .box-jonathan{
     width: 100px;
     position: absolute;
-    top: 60px;
+    top: 90px;
     left:790px;
 }
 
@@ -107,23 +111,24 @@ body{
 .jeanette{
     background-color: hsl(0, 0%, 100%);
     padding: 30px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     width: 190px;
-    height: 255px;
+    height: 240px;
     border-radius: 10px;
     position: absolute;
-        transform: translate(0px, 320px);
+        transform: translate(0px, 303px);
 }
 
 #img-jeanette{
     border-radius: 100%;
+    margin-top: -5px;
 }
 
 
 .box-jeanette{
     width: 100px;
     position: absolute;
-    top: 20px;
+    top: 15px;
     left:75px;
 }
 
@@ -152,23 +157,25 @@ body{
 .patrick{
     background-color: hsl(219, 29%, 14%);
     padding: 30px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     max-width: 480px;
-    height: 255px;
+    height: 240px;
     border-radius: 10px;
     position: absolute;
-        transform: translate(280px, 320px);
+        transform: translate(280px, 303px);
 }
 
 #img-patrick{
     border-radius: 100%;
+    margin-top: -5px;
+     border: 2px solid hsl(263, 55%, 52%);   
 }
 
 
 .box-patrick{
     width: 100px;
     position: absolute;
-    top: 20px;
+    top: 15px;
     left:78px;
 }
 
@@ -197,7 +204,7 @@ body{
 .kira{
     background-color: hsl(0, 0%, 100%);
     padding: 30px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     max-width: 195px;
     margin-right: 30px;
     border-radius: 10px;
@@ -205,13 +212,14 @@ body{
 
 #img-kira{
     border-radius: 100%;
+    margin-top: -10px;
 }
 
 
 .box-kira{
     width: 100px;
     position: absolute;
-    top: 60px;
+    top: 90px;
     left:1070px;
 }
 
@@ -234,7 +242,7 @@ body{
 .kira p{
     font-weight: 500;
     color: hsla(217, 19%, 35%, 70%);
-    line-height: 1.55; 
+    line-height: 1.45; 
 }
 
 /*--------------------------------------------------*/
